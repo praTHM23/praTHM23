@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm23" alt="prathm23" /></a> </p>
 
-- 🌱 I’m currently learning **reactNative,Nodejs,Mongodb,Mysql**
+- 🌱 I’m currently learning **Flutter,Nodejs,Mongodb,Mysql**
 
 - 💬 Ask me about **Docker**
 
@@ -26,4 +26,4 @@
 [![@prathm23's Holopin board](https://holopin.me/prathm23)](https://holopin.io/@prathm23)
 
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="400" />
+<!-- <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="400" /> -->
